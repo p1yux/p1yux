@@ -24,14 +24,6 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast with 
 
 ---
 
-## 📈 GitHub Stats
-
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush-Arora&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Arora&layout=compact&theme=radical)](https://github.com/p1yux)
-
----
-
 ## 📫 Get in Touch
 
 - **LinkedIn**: [Piyush Arora](https://www.linkedin.com/in/p1yux/)
