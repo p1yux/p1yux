@@ -1,6 +1,6 @@
 # Piyush Arora
 
-I'm a developer and AI enthusiast with an interest in building impactful and innovative solutions. Here's a about me:
+Developer and AI enthusiast with an interest in building impactful and innovative solutions. Here's a about me:
 
 ---
 
