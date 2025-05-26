@@ -1,15 +1,15 @@
-# Hi there! 👋 I'm Piyush Arora
+# Piyush Arora
 
-Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast with a strong interest in building impactful and innovative solutions. Here's a little about me:
+I'm a developer and AI enthusiast with an interest in building impactful and innovative solutions. Here's a about me:
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 **Tech Enthusiast**: Proficient in **Java**, **C++**, **Python**, and **web development**
-- 🔍 **Focused On**: AI/ML, software development, and responsive interfaces
-- 🌱 **Currently Learning**: Advanced AI topics like agents, multi-agent systems, and RAG
-- 🎓 **Techsolutions**: Helps frame solutions of tech realated services/products
+- **Tech**: Proficient in **Java**, **C++**, **Python**, and **web development**
+- **Focused On**: AI/ML, software development, and responsive interfaces
+- **Currently Learning**: Advanced AI topics like agents, multi-agent systems, and RAG
+- **Techsolutions**: Helps frame solutions of tech realated services/products
 
 ---
 
@@ -23,11 +23,10 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast with 
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch if you have a need
 
-- **LinkedIn**: [Piyush Arora](https://www.linkedin.com/in/p1yux/)
 - **Email**: soulpiyush09@gmail.com
 
 ---
 
-Thank you for stopping by! 😊 Let's connect and create amazing things together.
+Don't stuck at the same stack to build rockets and rackets.
