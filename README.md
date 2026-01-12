@@ -1,32 +1,55 @@
 # Piyush Arora
 
-I build sh\*t that works. If you’re still googling “how to center a div,” don’t even bother.
+I write code.  
+If you’re here to judge the code, go ahead.
 
 ---
 
-## About Me
+## About
+- Builds software that survives real users  
+- Fixes bugs that “randomly happen”  
+- Doesn’t argue with computers — makes them comply  
+- Ships more than he tweets  
 
-* **Tech**: Java, C++, Python, Web Dev — yeah, the real kind
-* **What I Do**: Solve problems you couldn’t even describe properly
-* **What I’m Learning**: Advanced AI crap you’ve probably never heard of
-* **TechSolutions**: You mess it up, I clean it up — for a price
-
----
-
-## 🛠️ Tech Stack (Because You’ll Ask Anyway)
-
-* **Languages**: Java, Python, C++, JavaScript, TypeScript — pick your poison
-* **Frontend**: Next.js, Tailwind CSS, Framer Motion — your UI looks like 2010 without it
-* **Backend**: Python Django — no, I don’t do your legacy garbage
-* **Databases**: Firebase, SQL, MongoDB — basically, whatever gets the job done
-* **Tools**: Git, VS Code, Firebase (again, because most of y’all don’t even use it right)
+Currently working on things that won’t be explained in README files.
 
 ---
 
-## Contact (Don’t Be Weird)
+## Stack (yes, it doesn't matters)
 
-* **Email**: [soulpiyush09@gmail.com](mailto:soulpiyush09@gmail.com) — I read it when I feel like it
+### Languages
+Python · JavaScript · TypeScript  
+
+### Frontend
+Next.js · Tailwind CSS · Framer Motion  
+(UI that doesn’t fight the user)
+
+### Backend
+FastAPI · Django  
+(APIs that don’t need a prayer before deployment)
+
+### Databases
+PostgreSQL · Firebase · MongoDB  
+(Chosen based on requirements, not vibes)
+
+### Tools
+Git · VS Code · Docker  
+(Used correctly)
 
 ---
-Don’t be stuck on the same stack forever. You’re not building rockets — or maybe you are. Just don’t do it with Bootstrap.
 
+## What I Do
+- Tutorial projects with `final_final_v2` folders  
+- Overengineering to look smart  
+- Framework hopping every weekend  
+- Explaining why `node_modules` is big  
+
+---
+
+## Contact
+📧 soulpiyush09@gmail.com  
+
+---
+
+Good software is boring.  
+That’s how you know it works.
